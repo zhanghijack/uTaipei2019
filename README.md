@@ -6,16 +6,22 @@
 本課程全程使用Google Colab AI雲端平台實作
 學生須具備基礎python程式設計基礎(上過HappyPythonDay課程主題即可)
 ```
+```
+主題一:資料科學Data Science::Numpy + matplotlib實戰
+```
 ## 主題一:資料科學Data Science
 
 ### 基礎學習主題:Numpy + matplotlib
 ```
-
+Numpy ndarray及其運算
+實戰matplotlib資料視覺化
 neural Network與XOR problem:從感知機到MLP
 ```
 ### 延伸學習主題:Pandas
 ```
-
+Pandas Series及其運算
+Pandas DataFrame及其運算
+實戰Pandas:案例分析
 ```
 ### 延伸學習主題:Data visulization using seaborn
 ```
@@ -44,6 +50,7 @@ neural Network與XOR problem:從感知機到MLP
 ```
 FASHION-MNIST分類問題
 cifar 10分類問題
+Kaggle Competition
 ```
 
 ### 延伸學習主題:各類演算法
