@@ -8,6 +8,8 @@
 ```
 ```
 主題一:資料科學Data Science::Numpy + matplotlib實戰
+主題二:機器學習machine learning:Keras vs scikit-learn實戰
+主題三:深度學習Deep learning: Keras實戰CNN與GAN
 ```
 ## 主題一:資料科學Data Science
 
