@@ -27,14 +27,12 @@ Pandas Series及其運算
 Pandas DataFrame及其運算
 實戰Pandas:案例分析
 ```
-### 延伸學習主題:Data visulization using seaborn
+### 延伸學習主題:
+```
+Data visulization using seaborn
+Interactive Data visulization using Plotly
 ```
 
-```
-### 延伸學習主題:Interactive Data visulization using Plotly
-```
-
-```
 ## 主題二:機器學習machine learning
 ### 課程規劃
 ```
@@ -59,7 +57,8 @@ Kaggle Competition
 
 ### 延伸學習主題:各類演算法
 ```
-
+scikit-learn實戰機器學習
+Tensorflow實戰機器學習
 ```
 ## 主題三:深度學習Deep learning
 ```
@@ -69,6 +68,7 @@ Kaggle Competition
 ### 課程主題
 ```
 深度學習Deep learning之CNN實戰:再戰MNIST分類問題
+深度學習Deep learning之RNN實戰:第三戰MNIST分類問題
 深度學習Deep learning之GAN實戰:MNIST手寫數字產生::讓人類眼花無法辨識的AI產品
 ```
 ### 延伸學習主題:(1)CNN
