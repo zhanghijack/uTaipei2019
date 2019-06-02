@@ -74,7 +74,11 @@ Tensorflow實戰機器學習
 ```
 ### 延伸學習主題:(1)CNN
 ```
+使用大神產生的模型(Using pre-trained model)
+風格轉換與學習
+Deep Dream
 
+object detection and 人臉辨識
 ```
 ### 延伸學習主題:(2)RNN與自然語言處理
 ```
@@ -88,7 +92,10 @@ AI Bot:人工智慧聊天機器人
 ```
 ### 延伸學習主題:(3)GAN
 ```
-
+族繁不及備載,....請上網看看Awesome-GAN
+https://github.com/nightrome/really-awesome-gan
+https://github.com/nashory/gans-awesome-applications
+https://github.com/Faldict/awesome-GAN
 ```
 
 ## 主題四:人工智慧與資訊安全AI and Security
