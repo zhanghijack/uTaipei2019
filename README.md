@@ -24,6 +24,10 @@ neural Network與XOR problem:從感知機到MLP
 ```
 ### 延伸學習主題:Pandas
 ```
+推薦好書: Pandas作者Wes McKinney寫的經典
+```
+
+```
 Pandas Series及其運算
 Pandas DataFrame及其運算
 實戰Pandas:案例分析
@@ -71,6 +75,12 @@ Tensorflow實戰機器學習
 深度學習Deep learning之CNN實戰:再戰MNIST分類問題
 深度學習Deep learning之RNN實戰:第三戰MNIST分類問題
 深度學習Deep learning之GAN實戰:MNIST手寫數字產生::讓人類眼花無法辨識的AI產品
+```
+```
+推薦好書: Keras作者François Chollet寫的經典Deep Learning with Python
+Deep learning 深度學習必讀 - Keras 大神帶你用 Python 實作
+François Chollet 著、葉欣睿 譯、施威銘研究室 監修
+旗標出版 2019-05-31
 ```
 ### 延伸學習主題:(1)CNN
 ```
