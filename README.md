@@ -51,7 +51,7 @@ Interactive Data visulization using Plotly
 機器怎麼學習?? Error function and Optimization
 機器學習之線性回歸分析:(2)Keras實戰
 (*有時間再講)機器學習之叢集分析:使用scikit-learn實戰Kmeans叢集分析
-機器學習之分類演算法:(1)使用Keras MLP實戰MNIST分類問題
+機器學習之分類演算法:使用Keras MLP實戰MNIST分類問題
 ```
 ### 延伸學習主題:更多案例分析
 ```
