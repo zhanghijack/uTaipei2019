@@ -25,6 +25,11 @@ neural Network與XOR problem:從感知機到MLP
 ### 延伸學習主題:Pandas
 ```
 推薦好書: Pandas作者Wes McKinney寫的經典
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2/e
+Python 資料分析, 2/e 
+Wes McKinney 張靜雯　歐萊禮　2018-10-03
+
+https://github.com/wesm/pydata-book
 ```
 
 ```
